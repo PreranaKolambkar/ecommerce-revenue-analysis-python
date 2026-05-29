@@ -87,13 +87,6 @@ Steps performed:
 
 ---
 
-## Model Performance
-
-| Metric | Value |
-|----------|----------|
-| MAE | 8.56 |
-| MSE | 109.86 |
-| R² Score | 0.98 |
 
 ### Interpretation
 
@@ -103,20 +96,7 @@ Steps performed:
 
 ---
 
-## Feature Importance
 
-| Feature | Importance |
-|----------|----------|
-| Length of Membership | 61.90 |
-| Time on App | 38.79 |
-| Avg Session Length | 25.60 |
-| Time on Website | 0.31 |
-
-### Observation
-
-Length of Membership is the most important factor affecting customer spending, while Time on Website contributes very little.
-
----
 
 ## Conclusion
 
